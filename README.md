@@ -6,13 +6,6 @@
 
 This project uses **Maximum Likelihood Estimation (MLE)** to learn the **probability density function (PDF)** of **NO₂ air pollution data** collected from various locations across India.
 
-The workflow includes:
-- Loading and preprocessing NO₂ air quality data
-- Applying a nonlinear transformation to the data
-- Defining a Gaussian probability density function
-- Estimating parameters using numerical MLE optimization
-- Visualizing the learned distribution against the data
-
 <p align="center">
   <img width="1024" height="448" alt="Methodology Workflow" src="https://github.com/user-attachments/assets/09e91f61-71f1-4d46-a49a-5b6bdac8fb4c" />
 </p>
